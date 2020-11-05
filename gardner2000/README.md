@@ -5,3 +5,5 @@ The behaviour of the toggle switch and the conditions for bistability can be und
 ![Alt text](./fig2a.jpg)
 
 [My image](./fig2a.jpg)
+
+![alt text](./fig2a.jpg)
