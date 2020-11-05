@@ -1,3 +1,4 @@
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-https://render.githubusercontent.com/render/math?math=\frac{\mathrm{d}u}{\mathrm{d}t} = \frac{\alpha_{1}}{1 + v^{\beta}}
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
++++ The toggle model
+The behaviour of the toggle switch and the conditions for bistability can be understood using the following dimensionless model for the network:
+
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large \frac{du}{dt} = \frac{\alpha_{1}}{1 + v^{\beta}}" />
