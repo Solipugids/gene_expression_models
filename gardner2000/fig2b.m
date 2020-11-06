@@ -2,7 +2,7 @@ figure
 hold on
 
 alpha_2 = 4;
-gamma = 1.4;
+gamma = 2;
 u = 0:0.01:10;
 v = alpha_2./(1 + u.^gamma);
 plot(u, v, 'k', 'LineWidth', 2)
@@ -15,4 +15,4 @@ plot(u, v, 'k', 'LineWidth', 2)
 
 xlabel('u')
 ylabel('v')
-title('A monostable toggle network with imbalanced promoter strengths.')
+title('A bistable toggle network with balanced promoter strengths.')
