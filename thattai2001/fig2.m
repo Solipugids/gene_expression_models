@@ -17,3 +17,5 @@ ylabel('fano')
 title('Transient noise for a single gene.')
 
 eta = 1/150;
+fano = 1-exp(-gamma_p*t);
+plot(t, fano)
