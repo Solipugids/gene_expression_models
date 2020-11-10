@@ -12,7 +12,7 @@ Nat. Rev. Genet., vol. 6, no. 6, pp. 451–464, 2005.
 
 ![](./fig2deterministicmodels.jpg)
 
-####Stochastic models
+#### Stochastic models
 s<sub>A</sub> = 50;
 
 s<sub>R</sub> = 5;
