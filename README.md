@@ -1,4 +1,4 @@
-# gene_expression_models
+# Stochastic Models in Gene Expression
 
 learing process
 
