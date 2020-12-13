@@ -1,4 +1,20 @@
-ODE
+### Definition of the system
+Reaction kinetic scheme (manually drawn by Inkscape according to the figure in the page 29 of the [book](https://mitpress.mit.edu/books/quantitative-biology).)
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\mathrm{d}x}{\mathrm{d}t}=k_{1}S+k_{2}y_{p}-k_{3}x" />
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\frac{\mathrm{d}y}{\mathrm{d}t}=k_{4}x\frac{Y-y_{p}}{K_{4}+Y-y_{p}}-\frac{k_{5}Ey_{p}}{K_{5}+y_{p}}" />
+![](./scheme.png)
+
+Ordinary differential equations in this system
+
+
+![](./dx:dt.svg)
+
+![](./dy:dt.svg)
+
+### Vector field in the phase plane
+![](./fig3.5B.png)
+
+### Nullclines and unstable manifold
+![](./fig3.5C.png)
+
+The unstable manifold can be drawn by the R package [*phaseR*](https://cran.r-project.org/web/packages/phaseR/index.html). The vector filed and nullclines can also be analysis by this package. I put both of the implementation in the seperated scirpts. 
+
