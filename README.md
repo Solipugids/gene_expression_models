@@ -14,8 +14,11 @@ going to read:
 - Rob Phillips, Jane Kondev, Julie Theriot, Hernan Garcia, *Physical Biology of the Cell*, Second Edition, Garland Science, 2012. [book link](https://routledgetextbooks.com/textbooks/9780815344506/default.php)[book link](https://www.taylorfrancis.com/books/9780429168833)
 
 Related journal
-[Physical Biology](https://iopscience.iop.org/journal/1478-3975) IOPscience
 
-[Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs) Oxford Press
+Journal | Press
+-----|-----
+[Physical Biology](https://iopscience.iop.org/journal/1478-3975) | IOPscience
 
-[Biophysical Journal](https://www.cell.com/biophysj/home) Cell Press
+[Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs) | Oxford Press
+
+[Biophysical Journal](https://www.cell.com/biophysj/home) | Cell Press
