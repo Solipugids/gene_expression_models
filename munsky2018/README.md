@@ -1,0 +1,1 @@
+This folder cover the scripts I wrote when reading the book [**Quantitative Biology**: Theory, Computational Methods, and Models] (https://mitpress.mit.edu/books/quantitative-biology) published by MIT press. 
