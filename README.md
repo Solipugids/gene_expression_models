@@ -15,5 +15,7 @@ going to read:
 
 Related journal
 [Physical Biology](https://iopscience.iop.org/journal/1478-3975) IOPscience
-[Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs)
-[Biophysical Journal](https://www.cell.com/biophysj/home)
+
+[Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs) Oxford Press
+
+[Biophysical Journal](https://www.cell.com/biophysj/home) Cell Press
