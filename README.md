@@ -20,3 +20,4 @@ Journal | Press
 [Physical Biology](https://iopscience.iop.org/journal/1478-3975) | IOPscience
 [Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs) | Oxford Press
 [Biophysical Journal](https://www.cell.com/biophysj/home) | Cell Press
+[ACS Synthetic Biology](https://pubs.acs.org/journal/asbcd6) | ACS Publications
