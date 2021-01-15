@@ -67,7 +67,6 @@ xticklabels({'0.1', '1', '10'});
 yticks([2 11 100]);
 yticklabels({'1', '10', '100'});
 
-hold off
 h = gca;
 plot(smoothed, 'Style', 'Contour');
 hold on
