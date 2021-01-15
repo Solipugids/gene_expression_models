@@ -1,6 +1,6 @@
 # Stochastic Models in Gene Expression
 
-learing process
+Learning map
 
 recommended books:
 - Michael E. Wall, *Quantitative biology: from molecular to cellular systems*, CRC Press, 2012. [book link](https://www.routledge.com/Quantitative-Biology-From-Molecular-to-Cellular-Systems/Wall/p/book/9780367864774)
@@ -12,3 +12,12 @@ recommended books:
 
 going to read:
 - Rob Phillips, Jane Kondev, Julie Theriot, Hernan Garcia, *Physical Biology of the Cell*, Second Edition, Garland Science, 2012. [book link](https://routledgetextbooks.com/textbooks/9780815344506/default.php)[book link](https://www.taylorfrancis.com/books/9780429168833)
+
+Related journal
+
+Journal | Press
+-----|-----
+[Physical Biology](https://iopscience.iop.org/journal/1478-3975) | IOPscience
+[Acta Biochimica et Biophysica Sinica](https://academic.oup.com/abbs) | Oxford Press
+[Biophysical Journal](https://www.cell.com/biophysj/home) | Cell Press
+[ACS Synthetic Biology](https://pubs.acs.org/journal/asbcd6) | ACS Publications
