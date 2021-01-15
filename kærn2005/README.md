@@ -7,8 +7,8 @@ Nat. Rev. Genet., vol. 6, no. 6, pp. 451–464, 2005.
 #### Deterministic rate equations
 
 ![](./dp:dt.svg)
-![](./dm:dt.svg)
 
+![](./dm:dt.svg)
 
 ![](./fig2deterministicmodels.jpg)
 
