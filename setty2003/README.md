@@ -39,7 +39,9 @@ V<sub>5</sub> = 540
 after using `fit` funciton to smooth the data
 
 Input function (promoter activity) in the mathematical model of the lac promoter.
+
 ![](./fig3b.png)
 
 Schematic form of the input function of the lac promoter.
+
 ![](./fig3d.png)
